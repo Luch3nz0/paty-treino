@@ -11,5 +11,4 @@ npm run dev
 
 ## Publicação
 
-O site é publicado automaticamente no GitHub Pages após cada push para a
-branch `main`.
+O site compilado é publicado no GitHub Pages pela branch `gh-pages`.
